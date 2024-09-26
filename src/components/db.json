@@ -1,0 +1,125 @@
+{
+    "captains": [
+      {
+        "id": 1,
+        "captain_name": "Ravi Kumar",
+        "captain_city": "Madhapur",
+        "captain_vehicle_type": "Wheelchair"
+      },
+      {
+        "id": 2,
+        "captain_name": "Suman Reddy",
+        "captain_city": "Gachibowli",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 3,
+        "captain_name": "Anita Sharma",
+        "captain_city": "Banjara Hills",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 4,
+        "captain_name": "Praveen Singh",
+        "captain_city": "Kukatpally",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 5,
+        "captain_name": "Sneha Patel",
+        "captain_city": "Hitec City",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 6,
+        "captain_name": "Rohit Mehta",
+        "captain_city": "Jubilee Hills",
+        "captain_vehicle_type": "Wheelchair"
+      },
+      {
+        "id": 7,
+        "captain_name": "Naveen Das",
+        "captain_city": "Secunderabad",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 8,
+        "captain_name": "Lakshmi Iyer",
+        "captain_city": "Ameerpet",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 9,
+        "captain_name": "Arjun Verma",
+        "captain_city": "Begumpet",
+        "captain_vehicle_type": "Wheelchair"
+      },
+      {
+        "id": 10,
+        "captain_name": "Pooja Rao",
+        "captain_city": "Manikonda",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 11,
+        "captain_name": "Akhil Gupta",
+        "captain_city": "Mehdipatnam",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 12,
+        "captain_name": "Shreya Menon",
+        "captain_city": "Dilsukhnagar",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 13,
+        "captain_name": "Vikram Rao",
+        "captain_city": "Himayatnagar",
+        "captain_vehicle_type": "Wheelchair"
+      },
+      {
+        "id": 14,
+        "captain_name": "Neha Gupta",
+        "captain_city": "Somajiguda",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 15,
+        "captain_name": "Sandeep Kulkarni",
+        "captain_city": "SR Nagar",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 16,
+        "captain_name": "Kiran Desai",
+        "captain_city": "Kondapur",
+        "captain_vehicle_type": "Wheelchair"
+      },
+      {
+        "id": 17,
+        "captain_name": "Divya Raj",
+        "captain_city": "Tarnaka",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 18,
+        "captain_name": "Mohan Reddy",
+        "captain_city": "Chandanagar",
+        "captain_vehicle_type": "Bike"
+      },
+      {
+        "id": 19,
+        "captain_name": "Pallavi Joshi",
+        "captain_city": "Nagole",
+        "captain_vehicle_type": "Walk"
+      },
+      {
+        "id": 20,
+        "captain_name": "Manoj Verma",
+        "captain_city": "LB Nagar",
+        "captain_vehicle_type": "Wheelchair"
+      }
+    ]
+  }
+  
